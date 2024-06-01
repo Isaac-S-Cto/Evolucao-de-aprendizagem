@@ -29,11 +29,11 @@
 
 
 
-**_soft skills_** - À aula de carreira aliada com informações de outras fontes me proporcionaram insides sobre a importância de valorizar essas outras habilidades, percebi que não é interessante negligênciar pois é tão importante quantos habilidades técnicas e indispensável no atual mercado de trabalho.
+**_soft skills_** - à aula de carreira aliada com informações de outras fontes me proporcionaram insides sobre a importância de valorizar essas outras habilidades, percebi que não é interessante negligênciar pois é tão importante quantos habilidades técnicas e indispensável no atual mercado de trabalho.
 
 **_linkdin_** - não é o instagram! então devemos tomar cuidado com o que postamos, notei que a maior parte das vagas de emprego estão nessa plataforma, importante estar com as informações atualizadas. existem práticas em relação a formatação das informações que otimizam e aumentam possibilidade de visualizacão por parte dos recrutadores, sem duvidadas é a ferramenta mais poderosa para quem esta em busca de oportunidades.
 
-**_Ética e tecnologia_** - a tecnologia tem se tornado uma abstração do mundo real, tem transportado a vida das pessoas para o digital, e não é porquê esta no virtual que não háverá ética e regras, como profissionais da tecnologia devemos estar bem informados sobre esses assuntos nos mantendo sempre atualizados.
+**_Ética e tecnologia_** - à tecnologia tem se tornado uma abstração do mundo real, tem transportado a vida das pessoas para o digital, e não é porquê esta no virtual que não háverá ética e regras, como profissionais da tecnologia devemos estar bem informados sobre esses assuntos nos mantendo sempre atualizados.
 
 **_Gestão de tempo_** - extremamente importante para atingir os objetivos, uma boa gestão de tempo, organização da rotina otimizam e aceleram o aprendizado. Sem essa consciencia a produtividade e eficiencia das atividades caem pela metade. A questão não é a quantidade de tempo dedicada e sim a qualidade desse Tempo.
 
@@ -50,7 +50,9 @@
 
 _**Soft skills**_ - com a consciência da importância de desenvolver essas habilidades gostaria de aprender  formas eficientes de como desenvove-las cada vez mais.
 
-_**LinkedIn**_ - Ética em tecnologia - meu objetivo é me envolver nesse assunto pois como ainda existem áreas cinzentas é interessante se antecipar e quem sabe inovar.
+_**LinkedIn**_ - gostaria de aprender e me aprofundar sobre o lado dos recrutadores como eles enchergam os canditados dentro da plataforma. 
+
+_**Ética em tecnologia**_ - meu objetivo é me envolver e aprender mais sobre esse assunto pois como ainda existem áreas cinzentas é interessante se antecipar e quem sabe inovar.
 
 _**Gestão de tempo**_ - aprender em uma aula mais prática sobre gestão de tempo ultilizando aplicativos voltados para este fim e sobre técnicas de vencer obstaculos psicológicos que dificutam essa meta.
 
