@@ -24,7 +24,7 @@
 
 
 
-### O que aprendi ?
+## O que aprendi ?
 <br>
 
 
@@ -45,7 +45,7 @@
 
 
 
-### O que quero aprender ?
+## O que quero aprender ?
 <br>
 
 _**Soft skills**_ - com a consciência da importância de desenvolver essas habilidades gostaria de aprender  formas eficientes de como desenvove-las cada vez mais.
