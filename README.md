@@ -12,6 +12,8 @@
 
 **_linkedin_** - ferramenta poderosa para networkinge busca de novas oportunidades.
 
+**_currículo e carta de apresentação_** - hoje como a maioria dos processos seletivos são online e cadastramos nossos currículos em plataformas(ATS), é mais importante do que nunca seguir algumas boas práticas para obter um bom rankeamento do nosso currículo nessas plataformas e assim aumentar nossas chances de ser visualizado.   
+
 **_Ética e tecnologia_**  -  como profissional da área é um dever estar atualizado sobre assuntos como privacidade e segurança de dados.
 
 **_gestão de tempo_** - para me tornar um bom profissional é necessário encontrar uma forma de gerenciar o tempo ultilizando ferramentas tecnológicas, organizando tarefas e suas prioridades.
@@ -33,6 +35,8 @@
 
 **_linkdin_** - não é o instagram! então devemos tomar cuidado com o que postamos, notei que a maior parte das vagas de emprego estão nessa plataforma, importante estar com as informações atualizadas. existem práticas em relação a formatação das informações que otimizam e aumentam possibilidade de visualizacão por parte dos recrutadores, sem duvidadas é a ferramenta mais poderosa para quem esta em busca de oportunidades.
 
+**_currículo e carta de apresentação_** - através da aula de carreira e do suporte da beatriz via discord, aprendi como deixar o meu currículo legível com uma boa identação e como deve ser minha abordagem na carta de apresentação que é mencionado a minha trajetória de forma breve e expor minhas habilidades e tecnologias que possuo domínio. 
+
 **_Ética e tecnologia_** - à tecnologia tem se tornado uma abstração do mundo real, tem transportado a vida das pessoas para o digital, e não é porquê esta no virtual que não háverá ética e regras, como profissionais da tecnologia devemos estar bem informados sobre esses assuntos nos mantendo sempre atualizados.
 
 **_Gestão de tempo_** - extremamente importante para atingir os objetivos, uma boa gestão de tempo, organização da rotina otimizam e aceleram o aprendizado. Sem essa consciencia a produtividade e eficiencia das atividades caem pela metade. A questão não é a quantidade de tempo dedicada e sim a qualidade desse Tempo.
@@ -52,6 +56,8 @@ _**Soft skills**_ - com a consciência da importância de desenvolver essas habi
 
 _**LinkedIn**_ - gostaria de aprender e me aprofundar sobre o lado dos recrutadores como eles enchergam os canditados dentro da plataforma. 
 
+**_currículo e carta de apresentação_** - seria interessante aprender outras formas de se destacar ainda mais no meio de tantos canditos.
+
 _**Ética em tecnologia**_ - meu objetivo é me envolver e aprender mais sobre esse assunto pois como ainda existem áreas cinzentas é interessante se antecipar e quem sabe inovar.
 
 _**Gestão de tempo**_ - aprender em uma aula mais prática sobre gestão de tempo ultilizando aplicativos voltados para este fim e sobre técnicas de vencer obstaculos psicológicos que dificutam essa meta.
@@ -61,3 +67,5 @@ _**Git básico**_ -  gostaria de ter uma expêriencia em coolaborar em um projet
 _**Introdução a TypeScript**_ - gostaria agora de ultilizar as habilidades que aprendi até agora em um projeto real, ultilizando consumo de api, validações de formularios e etc..
 
 _**Métodos de strings e arrays**_ - meu objetivo agora é me familiarizar o máximo possivel com esses métodos através da prática em exercicios e em pequenos projetos.
+
+
