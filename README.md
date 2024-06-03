@@ -64,7 +64,7 @@ _**Gestão de tempo**_ - aprender em uma aula mais prática sobre gestão de tem
 
 _**Git básico**_ -  gostaria de ter uma expêriencia em coolaborar em um projeto real, tenho certeza que aumentará minha expertise com a ferramenta.
 
-_**Introdução a TypeScript**_ - gostaria agora de ultilizar as habilidades que aprendi até agora em um projeto real, ultilizando consumo de api, validações de formularios e etc..
+_**Introdução a TypeScript**_ - gostaria agora de ultilizar as habilidades que aprendi até agora em um projeto real, ultilizando consumo de api, testes, validações, banco de dados.
 
 _**Métodos de strings e arrays**_ - meu objetivo agora é me familiarizar o máximo possivel com esses métodos através da prática em exercicios e em pequenos projetos.
 
