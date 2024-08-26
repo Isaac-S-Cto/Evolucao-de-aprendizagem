@@ -34,7 +34,18 @@
 
 **_servidor_** - database com o objetivo de servir aplicações e serviços web.
 
+**_Marca Pessoal e Plano de Carreira1_** - Reconheço a importância de uma marca pessoal para se destacar no mercado de trabalho.Sei que o plano de carreira envolve definir metas e trajetórias para o crescimento profissional.
+
+**_Diversidade e Inclusão em Tecnologia_** - Sei que diversidade é sobre representar diferentes grupos e que inclusão é garantir que todos tenham voz e oportunidades iguais.
+Entendo que essas práticas são fundamentais para criar um ambiente de trabalho mais inovador e justo.
+
+**_Metodologias Ágeis_** - As metodologias ágeis são usadas para organizar projetos.
+
+**_Desenvolvimento Usando SQL_**
 ## O que aprendi ?
+é utilizado para gerenciar e manipular bancos de dados relacionais.
+Entendo os conceitos básicos de consultas, como SELECT, INSERT, UPDATE e DELETE.
+Sei como criar estruturas básicas como tabelas, chaves primárias e estrangeiras.
 <br>
 
 
@@ -65,8 +76,21 @@
 
 **_servidor_** - aprendemos as principais bibliotecas , para a construção de um servidor em node, aprendemos sobre rotas de requisição http, sobres os verbos ultilizados nessas requisições e descobrimos ferramentas para simular essas requisições.
 
-## O que quero aprender ?
+**_Marca Pessoal e Plano de Carreira1_** - A criação de uma marca pessoal vai além das redes sociais, incluindo networking e reputação profissional. O plano de carreira deve ser ajustado conforme mudanças no mercado e nas habilidades pessoais.
+
+**_Diversidade e Inclusão em Tecnologia_** - Diversidade e inclusão não são apenas sobre recrutamento, mas também sobre criar uma cultura de pertencimento.
+A implementação eficaz dessas práticas requer políticas claras e envolvimento de todos os níveis da empresa.
+
+**_Metodologias Ágeis_** - A agilidade não se resume apenas às ferramentas ou processos, mas também envolve uma mudança de mentalidade, como responder rapidamente a mudanças e valorizar interações.O Scrum, por exemplo, divide o trabalho em sprints com papéis definidos (Product Owner, Scrum Master, etc.) e eventos específicos (dailies, retros, planning).
+O Kanban visualiza o fluxo de trabalho e ajuda a gerenciar tarefas em andamento para evitar gargalos.
+
+**_Desenvolvimento Usando SQL_** - A importância de evitar redundâncias e inconsistências nos dados.Como realizar junções (JOINs) para combinar dados de diferentes tabelas, utilizando operações como INNER JOIN, LEFT JOIN, etc.
+Melhores práticas para escrever consultas eficientes.
 <br>
+
+
+
+## O que quero aprender ?
 
 _**Soft skills**_ - com a consciência da importância de desenvolver essas habilidades gostaria de aprender formas eficientes de como desenvove-las cada vez mais.
 
@@ -91,3 +115,14 @@ _**Métodos de strings e arrays**_ - meu objetivo agora é me familiarizar o má
 **_pesquita e leitura de documentações_** - aprender como ser eficiente e extrair o melhor possivel da pesquisa e leitura dessa documentação pois é uma leitura maçante.   
 
 **_servidor_** - gostaria de ter contato e aprender sobre my sql e mongoDB
+
+**_Marca Pessoal e Plano de Carreira1_** -Como definir uma estratégia sólida para criar e promover minha marca pessoal.Técnicas práticas para estabelecer e acompanhar um plano de carreira flexível e adaptável.
+
+**_Diversidade e Inclusão em Tecnologia_** - Como aplicar estratégias de diversidade e inclusão na prática, tanto em projetos como na cultura organizacional.
+Ferramentas e métodos para avaliar a diversidade e inclusão em equipes e empresas.
+
+**_Metodologias Ágeis_** - Como escolher o framework ágil certo para diferentes projetos ou equipes.Como escalar práticas ágeis para equipes maiores e projetos mais complexos (como SAFe ou LeSS).Formas para medir a eficácia das metodologias ágeis e ajustar práticas conforme necessário.
+
+**_Desenvolvimento Usando SQL_** -  Como otimizar consultas em bancos de dados grandes e complexos, utilizando técnicas como particionamento de tabelas e tuning de índices. Automatização e Lógica automatizar processos e aplicar lógica dentro do banco de dados.
+ Como desenhar e modelar bancos de dados escaláveis e robustos para sistemas maiores.
+
